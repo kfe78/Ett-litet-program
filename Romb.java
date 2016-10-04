@@ -1,7 +1,5 @@
 
-//Visst ska vi väl ha romb istället för cirkel?
-
-public class Boll {
+public class Romb {
 
 int x_pos = 100;
 int y_pos = 100;
